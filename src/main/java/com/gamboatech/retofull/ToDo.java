@@ -1,5 +1,7 @@
 package com.gamboatech.retofull;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
